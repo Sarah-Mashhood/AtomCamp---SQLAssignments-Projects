@@ -1,3 +1,3 @@
-# AtomCampAssignments
+# SQL - AtomCampAssignments&Projects
 
-This repository contains all my completed assignments from AtomCamp.
+This repository contains all my completed SQL assignments and projects from AtomCamp.
